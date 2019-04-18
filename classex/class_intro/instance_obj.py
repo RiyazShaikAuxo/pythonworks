@@ -5,3 +5,4 @@ class TestEx:
 obj=TestEx()
 obj.name="ila"
 print(obj.name)
+
